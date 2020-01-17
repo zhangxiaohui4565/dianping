@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 
 import java.net.InetSocketAddress;
 
-@Component
+//@Component
 public class CanalClient implements DisposableBean{
 
     private CanalConnector canalConnector;
